@@ -1,0 +1,23 @@
+{
+  "name": "FrontMessage",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.1",
+    "@pusher/push-notifications-web": "^1.0.1",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "laravel-echo": "^1.8.1",
+    "nuxt": "^2.14.0",
+    "pusher-js": "^7.0.0"
+  },
+  "devDependencies": {}
+}
